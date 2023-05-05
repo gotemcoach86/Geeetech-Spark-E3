@@ -34,6 +34,6 @@ Marlin firmware needs customized configuration by users. GEEETECH only provides 
 
 Email: support@geeetech.com
 
-Facebook:https://www.facebook.com/groups/315127105604393
+Facebook: https://www.facebook.com/groups/315127105604393
 
-Tickets:https://www.geeetech.com/login.html (registration required Geeetech website account)
+Tickets:https: //www.geeetech.com/login.html (registration required Geeetech website account)
