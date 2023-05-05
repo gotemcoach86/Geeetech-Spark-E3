@@ -21,7 +21,7 @@ Geeetech Spark E3 Features are as follows:
 
 8. motherboard support 3 d - Touch, Neopixel lamp tape, printed after the shutdown module, detection module, the power of break to continue playing module function extension module;
 
-    bed and hot end using large current MOS tube, more durable, not easy to damage.
+7. bed and hot end using large current MOS tube, more durable, not easy to damage.
 
 GEEETECH Spark E3 V1.3 can replace the original motherboards of Ender 3, Ender 3 Pro, and Ender 5 models, and also use the original 12864 LCD display of these three models. Because of the communication protocol, if you want to use the color touch screen, you need to match the color touch screen provided by GEEETECH.
 
