@@ -1,0 +1,19 @@
+This software is without 3Dtouch version：
+
+BootLoad：					BIN\Bootloader\Bootloader_V1.0.9.hex
+
+Firmware：
+
+	LCD12864+A4988：			                BIN\Lcd12864\Marlin2.0.9.5_A4988\GTM32Source.bin 
+	LCD12864+TMC2209/TMC2208：		BIN\Lcd12864\Marlin2.0.9.5_TMC2209\GTM32Source.bin 
+	LCDTFT+A4988:				BIN\LcdTFT\Marlin2.0.9.5_A4988\GTM32Source.bin
+	LCDTFT+TMC2209/TMC2208：		                BIN\LcdTFT\Marlin2.0.9.5_TMC2209\GTM32Source.bin
+
+Source Code：
+
+	Bootload：				SRC\Bootloader
+	Marlin2.0.9.5 Official source code：	                SRC\Marlin-2.0.9.5
+	SparkE3+Lcd12864+A4988：	                                SRC\Marlin-SparkE3-Lcd12864-A4988
+                SparkE3+Lcd12864+TMC2209/2208：                       SRC\Marlin-SparkE3-Lcd12864-TMC2209
+	SparkE3+LcdTFT+A4988：			SRC\Marlin-SparkE3-LcdTFT-A4988
+	SparkE3+LcdTFT+TMC2209：		                SRC\Marlin-SparkE3-LcdTFT-TMC2209
