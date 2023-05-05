@@ -19,7 +19,7 @@ Geeetech Spark E3 Features are as follows:
 
 7. 4-way fan interface, of which 3 road PWM control, normally open all the way fan interface.
 
-8. motherboard support 3 d - Touch, Neopixel lamp tape, printed after the shutdown module, detection module, the power of break to continue playing module function extension module;
+8. motherboard support 3 d - Touch, Neopixel lamp tape, printed after the shutdown module, detection module, the power of break to continue playing module function extension module.
 
 7. bed and hot end using large current MOS tube, more durable, not easy to damage.
 
