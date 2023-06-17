@@ -1,5 +1,5 @@
 # Geeetech-Spark-E3
-Geeetech Spark E3 is a general purpose FDM 3D printer motherboard developed by Geeetech, which is suitable for upgrading 3D printers such as Ender3/Ender Pro/Ender3 V2/Ender5/Ender6.. 
+Geeetech Spark E3 is a general purpose FDM 3D printer motherboard developed by Geeetech, which is suitable for upgrading 3D printers such as Ender3/Ender Pro/Ender3 V2/Ender5/Ender6.
   
 Geeetech Spark E3 Features are as follows:
 
