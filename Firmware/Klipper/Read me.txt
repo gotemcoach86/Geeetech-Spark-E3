@@ -1,0 +1,25 @@
+  
+Catalog Description:
+
+1. bin directory: GTM32source-bin - STM32F103 series kliper firmware (put in SD card and take out after burning).
+
+2. CFG directory: Geeetech_SPARK_E3_Config.txt configuration file.
+
+
+How to use:
+
+1. There is bootload on the motherboard, skip the first step directly, if the bootload is not burned according to the original production file.
+
+2. Burn kliper firmware GTM32Source.bin to STM32F103 with SD (bootload was burned in the first step).
+
+3. Use Raspberry Pi Image to burn OctoKlipperPi image to Raspberry PI or orange pie (set up WIFI network); ---- This step varies according to the PI operation.
+
+4. Launch Raspberry PI or Orange PI, log in with ssh tool, and update kliper with git; ---- This step varies according to the PI operation.
+
+5. Go to Octoprint, update Octoprint; ---- This step varies according to the PI operation.
+
+6. Copy the contents of the Geeetech_SPARK_E3_Config.txt configuration file to print.cfg.
+
+7. Enter the IP of Raspberry PI or Orange PI in the web page and use octoprint or fluidd to operate the lower unit.
+
+ 
